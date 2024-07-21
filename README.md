@@ -49,10 +49,7 @@ The following preprocessing steps were performed:
 
 ## Modeling
 The following machine learning models were used:
-- Logistic Regression
-- Random Forest
-- Support Vector Machine (SVM)
-- Gradient Boosting
+- Neural Networks using tensorflow
 
 ## Results
 The performance of the models was evaluated using the following metrics:
@@ -61,7 +58,7 @@ The performance of the models was evaluated using the following metrics:
 - Recall
 - F1 Score
 
-The Random Forest model achieved the best performance with an accuracy of X%.
+The neural network model achieved the best performance with an accuracy of 81%.
 
 ## Usage
 To use this project, follow these steps:
@@ -75,8 +72,8 @@ To use this project, follow these steps:
 3. Installation
    Make sure you have the following software installed:
     
-   Python 3.x
-   Jupyter Notebook
+   Python 3.x,
+   Jupyter Notebook,
    Required Python packages
 
 
