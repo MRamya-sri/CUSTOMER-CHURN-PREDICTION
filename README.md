@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This project aims to predict customer churn using various machine learning techniques. The dataset includes various features related to customer demographics and service usage.
+This project aims to predict customer churn using various Machine learning techniques. The dataset includes various features related to customer demographics and service usage.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,6 @@ This project aims to predict customer churn using various machine learning techn
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Customer churn prediction is critical for businesses to retain customers and improve profitability. This project utilizes machine learning algorithms to predict whether a customer will churn based on their service usage and demographic data.
